@@ -1,0 +1,11 @@
+CREATE TABLE SMART_PLANT (
+	"id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+	"name" TEXT NOT NULL,
+	"serialNumber" TEXT NOT NULL,
+	"imagePath" TEXT,
+	"maxTemperature" INTEGER NOT NULL,
+	"minTemperature" INTEGER NOT NULL,
+	"maxHumidity" INTEGER NOT NULL,
+    "minHumidity" INTEGER NOT NULL,
+	"maxLight" INTEGER NOT NULL,
+	"minLight" INTEGER NOT NULL);

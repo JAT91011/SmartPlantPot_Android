@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Smart Plant Pots</string>
+    <string name="msg_bluetooth_le_required">Se necesita un smartphone con soporte para Bluetooth Low Energy</string>
+    <string name="menu_refresh">Buscar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_share">Compartir</string>
+
+    <!-- SEARCH ACTIVITY -->
+    <string name="menu_view_all">Explorar</string>
+    <string name="menu_list_remove">Eliminar</string>
+    <string name="not_any_smart_plant">No hay ninguna maceta inteligente registrada. ¡Añade una para empezar!</string>
+
+
+    <!-- EDIT ACTIVITY -->
+    <string name="view_add_smart_plant_pot_title">Añadir maceta inteligente</string>
+    <string name="view_edit_smart_plant_pot_title">Editar maceta inteligente</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_serial_number">Número de serie</string>
+
+    <string name="txt_max_temp">Temperatura máxima (ºC)</string>
+    <string name="txt_min_temp">Temperatura mínima (ºC)</string>
+    <string name="txt_max_humidity">Humedad máxima (%)</string>
+    <string name="txt_min_humidity">Humedad mínima (%)</string>
+    <string name="txt_max_light">Luminosidad máxima (%)</string>
+    <string name="txt_min_light">Luminosidad mínima (%)</string>
+    <string name="ctx_menu_title_image">Añadir imagen</string>
+    <string name="ctx_menu_take_photo">Sacar foto</string>
+    <string name="ctx_menu_import_from_gallery">Importar desde galería</string>
+    <string name="error_required_name">El nombre es obligatorio</string>
+    <string name="error_required_serial_number">El número de serie es obligatorio para enlazar con la maceta inteligente</string>
+    <string name="error_format_serial_number">El número de serie tiene que tener 12 caracteres</string>
+    <string name="error_required_temperature_min">La temperatura mínima es obligatoria</string>
+    <string name="error_required_temperature_max">La temperatura máxima es obligatoria</string>
+    <string name="error_temperature_range">La temperatura tiene que tener un valor entre -20ºC y 50ºC</string>
+    <string name="error_temperature_min_max">La temperatura mínima debe ser menor que la temperatura máxima</string>
+
+    <string name="error_required_humidity_min">La humedad mínima es obligatoria</string>
+    <string name="error_required_humidity_max">La humedad máxima es obligatoria</string>
+    <string name="error_humidity_range">La humedad tiene que tener un valor entre 0 y 100</string>
+    <string name="error_humidity_min_max">La humedad mínima debe ser menor que la humedad máxima</string>
+
+    <string name="error_required_light_min">La luminosidad mínima es obligatoria</string>
+    <string name="error_required_light_max">La luminosidad máxima es obligatoria</string>
+    <string name="error_light_range">La luminosidad tiene que tener un valor entre 0 y 100</string>
+    <string name="error_light_min_max">La luminosidad mínima debe ser menor que la luminosidad máxima</string>
+
+    <string name="successfully_added">Maceta inteligente añadida correctamente</string>
+    <string name="successfully_edited">Maceta inteligente editada correctamente</string>
+
+    <string name="menu_edit_save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- INFO ACTIVITY -->
+    <string name="msg_updating_data">Actualizando la configuración de la maceta inteligente...</string>
+    <string name="msg_retrieving_data">Obteniendo datos de la maceta inteligente...</string>
+
+    <!-- WIDGET -->
+    <string name="temperature">Temperatura:  </string>
+    <string name="humidity">Humedad:  </string>
+    <string name="luminosity">Luminosidad:  </string>
+
+    <string name="tab">\u0009</string>
+</resources>

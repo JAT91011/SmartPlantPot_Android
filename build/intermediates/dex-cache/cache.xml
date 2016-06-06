@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jordan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4ef9097bb36d25b310a6eb9cdefa7a3d86ae3856/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_3674abcfad046323feee6e1d8a5b9508015d6438/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_9282f4d08acf9d6fdb54b195165fb457552cce66/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_c542c9c6a7ca751b5614356bd798aa1315b26978/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c43ec87255903ac830c3262215beed74eccc2463/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_3113ca5f8deb7a9861a93ca7383ade05f98f9d4f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fd6024cb8b8b8a0c337a455fac2c6ac439292642">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6783ef87969f28a244bbfaabe03b81948cd75643/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_0b1840f55e444ba95f21078b73be24c439b12f51/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_4f5cb59be9811a28d263f531e0affcef4629aecf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_1cdd6ed3b1788c17face1a0892c0193dd7004b00/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b2b8d135385cc6a32c55c8fb127ae442a22dedd2">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad083d5bb31a5af89ffd34e4ee84a80c18609913/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/Jordan/Android/MySmartPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.3.0_72c7e471ac8c0fa7386e66efb9e3b52e42494fc4/classes.dex" />
+    </item>
+
+</items>

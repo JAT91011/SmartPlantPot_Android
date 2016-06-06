@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin"
+    android:background="@drawable/widget_background"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:id="@+id/layWidget"
+    android:paddingRight="20dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgSmartPlantWidget"
+            android:src="@mipmap/ic_launcher"
+            android:scaleType="centerCrop"
+            android:maxHeight="90dp"
+            android:maxWidth="90dp"
+            android:minHeight="90dp"
+            android:minWidth="90dp"
+            android:adjustViewBounds="false"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/widget_background" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:background="#555555"
+        android:layout_height="match_parent"
+        android:minWidth="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="10dp"></LinearLayout>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblPlantName"
+                    android:paddingBottom="5dp"
+                    android:singleLine="true"
+                    android:foreground="#FFFFFF"
+                    android:textColor="#FFFFFF"
+                    android:text="Buscando..."
+                    android:textSize="20dp"
+                    android:textStyle="italic" />
+
+                <LinearLayout
+                    android:id="@+id/smart_plant_data"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:foreground="#FFFF00">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/lblPlantTemp"
+                            android:singleLine="true"
+                            android:textColor="#000000"
+                            android:textSize="14dp"
+                            android:layout_weight="1"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/lblPlantHum"
+                            android:singleLine="true"
+                            android:textColor="#000000"
+                            android:textSize="14dp"
+                            android:layout_weight="1"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/lblPlantLight"
+                            android:singleLine="true"
+                            android:textColor="#000000"
+                            android:textSize="14dp"
+                            android:layout_weight="1"/>
+                </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>
